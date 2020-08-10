@@ -1,3 +1,5 @@
+
+// 通过闭包实现状态机制
 var React = (function() {
     let _val, _deps
   
